@@ -1,0 +1,23 @@
+@media(min-width: 992px) {
+    .btn {
+        font-size: x-large;
+    }
+    /* section1 */
+    #section1 {
+        flex-direction: column;
+    }
+    #section1 h1 {
+        font-size: xx-large;
+    }
+    #section1 p {
+        font-size: x-large;
+    }
+    /* section2 */
+    #div_list ul li {
+        text-align: center;
+    }
+    /* section4 */
+    #section4 {
+        font-size: x-large;
+    }
+}
